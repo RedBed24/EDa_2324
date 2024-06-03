@@ -1,0 +1,66 @@
+id;name;bio;species;gender;house;yearOfBirth;wizard;ancestry;eyeColour;hairColour;wand wood;alive
+0;Regulus Arcturus Black;Brother of Sirius. Used to be a Death Eater but defected.;human;male;Slytherin;1961;VERDADERO;pure-blood;;black;;FALSO
+1;Sirius Black;Best friend of James Potter and godfather of Harry.;human;male;Gryffindor;1959;VERDADERO;pure-blood;grey;black;;FALSO
+2;Lavender Brown;Killed by a werewolf. She was a gryffindor student who dated Ron. ;human;female;Gryffindor;1980;VERDADERO;pure-blood;;brown;;VERDADERO
+3;Cho Chang;Ravenclaw student who dated Cedric Diggory and Harry Potter.;human;female;Ravenclaw;1979;VERDADERO;;brown;black;;VERDADERO
+4;Vincent Crabbe Sr.;Father of Crabbe and death-eater who escaped Azkaban.;human;male;Slytherin;;VERDADERO;pure-blood;black;black;;VERDADERO
+5;Vincent Crabbe;Slytherin student who was best friends with Goyle and followed Draco.;human;male;Slytherin;1980;VERDADERO;pure-blood;black;black;;FALSO
+6;"Bartemius ""Barty"" Crouch Sr.";Head of the department of Internation Magical Cooperation. Killed by his son.;human;male;;;VERDADERO;pure-blood;;grey;;FALSO
+7;"Bartemius ""Barty"" Crouch Jr.";Death Eater who impersonated Alastor Moody.;human;male;;1962;VERDADERO;pure-blood;;sandy;;FALSO
+8;Fleur Delacour;Participated in the Triwizard tournament and married Bill Weasley.;human;female;;1977;VERDADERO;veela;blue;blonde;rosewood;VERDADERO
+9;Cedric Diggory;Participated in the Triwizard tournament and got killed by Voldemort.;human;male;Hufflepuff;1977;VERDADERO;;grey;brown;ash;FALSO
+10;Aberforth Dumbledore;Albus' brother and owner of Hog's Head.;human;male;Gryffindor;1883;VERDADERO;half-blood;blue;silver;;VERDADERO
+11;Albus Dumbledore;Headmaster of Hogwards killed by Snape.;human;male;Gryffindor;1881;VERDADERO;half-blood;blue;silver;elder;FALSO
+12;Dudley Dursley;Muggle son of Vernon and Petunia and first-cousin of Harry.;human;male;;1980;FALSO;muggle;blue;blonde;;VERDADERO
+13;Petunia Dursley;Harry's aunt and sister of Lily.;human;female;;1960;FALSO;muggle;brown;blonde;;VERDADERO
+14;Vernon Dursley;Harry's muggle uncle.;human;male;;;FALSO;muggle;blue;white;;VERDADERO
+15;Argus Filch;Squib caretake of Hogwards.;human;male;;1950;FALSO;squib;brown;grey;;VERDADERO
+16;Seamus Finnigan;Harry's friend and member of Dumbledore's army.;human;male;Gryffindor;1979;VERDADERO;half-blood;;sandy;;VERDADERO
+17;Nicolas Flamel;Creator of the Philosopher's Stone.;human;male;;1320;VERDADERO;;blue;grey;;FALSO
+18;Cornelius Fudge;Minister of Magic that was forced to resign.;human;male;;;VERDADERO;;grey;brown;;VERDADERO
+19;Goyle Sr.;Death Eater and father of Gregory Goyle.;human;male;Slytherin;;VERDADERO;pure-blood;;brown;;VERDADERO
+20;Gregory Goyle;Best friend of Crabbe. Slytherin student and dies by falling into Fiendfyre.;human;male;Slytherin;;VERDADERO;pure-blood;;brown;;VERDADERO
+21;Hermione Granger;One of Harry's best friend and marries Ron Weasley.;human;female;Gryffindor;1979;VERDADERO;muggle;brown;brown;vine;VERDADERO
+22;Rubeus Hagrid;Half-giant who loves Harry. He was the keeper of Keys and Grounds at Hogwards.;half-giant;male;Gryffindor;1928;VERDADERO;half-blood;black;black;oak;VERDADERO
+23;Igor Karkaroff;Highmaster of Durmstrang and reformed death-eater.;human;male;;1950;VERDADERO;;blue;silver;;FALSO
+24;Viktor Krum;Participant in the Triwizard tournament. Dated Hermione.;human;male;;1976;VERDADERO;;dark;dark;hornbeam;VERDADERO
+25;Bellatrix Lestrange;Death Eater who was killed by Molly Weasley.;human;female;Slytherin;1951;VERDADERO;pure-blood;brown;black;walnut;FALSO
+26;Alice Longbottom;Mother of Neville who was tortured by Bellatrix.;human;female;;;VERDADERO;pure-blood;;white;;VERDADERO
+27;Frank Longbottom;Father of Neville who was tortured by Bellatrix.;human;male;;1952;VERDADERO;pure-blood;;black;;VERDADERO
+28;Neville Longbottom;Gryffindor student who was a member of Dumbledore's army.;human;male;Gryffindor;1980;VERDADERO;pure-blood;;blonde;cherry;VERDADERO
+29;Luna Lovegood;Ravenclaw student who was a member of Dumbledore's army.;human;female;Ravenclaw;1981;VERDADERO;;grey;blonde;;VERDADERO
+30;Xenophilius Lovegood;Father of Luna and editor of The Quibbler.;human;male;Ravenclaw;;VERDADERO;;;white;;VERDADERO
+31;Remus Lupin;Friend of James Potter and werewolf. He married Nymphadora.;werewolf;male;Gryffindor;1960;VERDADERO;half-blood;green;brown;cypress;FALSO
+32;Draco Malfoy;Slytherin student who had many arguments with Harry.;human;male;Slytherin;1980;VERDADERO;pure-blood;grey;blonde;hawthorn;VERDADERO
+33;Lucius Malfoy;Father of Draco and influential Death-Eater.;human;male;Slytherin;1954;VERDADERO;pure-blood;grey;blonde;elm;VERDADERO
+34;Narcissa Malfoy;Mother of Draco and sister of Bellatrix.;human;female;Slytherin;1955;VERDADERO;pure-blood;blue;blonde;;VERDADERO
+35;Olympe Maxime;Half-giantess and headmistress of Beauxbatons.;half-giant;female;;;VERDADERO;half-blood;brown;brown;;VERDADERO
+36;Minerva McGonagall;Professor of Transfiguration and head of Gryffindor.;human;female;Gryffindor;1925;VERDADERO;half-blood;;black;fir;VERDADERO
+37;"Alastor ""Mad-Eye"" Moody";Retired auror and member of the order of the Phoenix. Killed by Voldemort.;human;male;;;VERDADERO;pure-blood;dark;grey;;FALSO
+38;Peter Pettigrew;Betrays James and Lily Potter. Follower of Voldemort.;human;male;Gryffindor;1959;VERDADERO;;blue;bald;chestnut;FALSO
+39;Harry Potter;The boy who lived. Main character of the series.;human;male;Gryffindor;1980;VERDADERO;half-blood;green;black;holly;VERDADERO
+40;James Potter;Father of Harry. Murdered by Voldemort.;human;male;Gryffindor;1960;VERDADERO;pure-blood;brown;black;mahogany;FALSO
+41;Lily Potter;Mother of Harry. Murdered by Voldemort.;human;female;Gryffindor;1960;VERDADERO;muggle;green;red;willow;FALSO
+42;Quirinus Quirrel;Possessed by Voldemort. Defence against the Dark Arts professor.;human;male;Ravenclaw;1955;VERDADERO;half-blood;blue;bald;alder;FALSO
+43;Tom Riddle Sr.;Muggle father of Voldemort who was killed by him.;human;male;;1905;FALSO;muggle;dark;dark;;FALSO
+44;Mary Riddle;Muggle mother of Voldemort who was killed by him.;human;female;;1883;FALSO;muggle;;dark;;FALSO
+45;Lord Voldemort;The antagonist of the series who murdered many.;human;male;Slytherin;1926;VERDADERO;half-blood;red;bald;yew;FALSO
+46;Rita Skeeter;Reporter at the Daily Prophet.;human;female;;1951;VERDADERO;;blue;blonde;;VERDADERO
+47;Severus Snape;Head of the Slytherin house and saved Harry in many occasions.;human;male;Slytherin;1960;VERDADERO;half-blood;black;black;;FALSO
+48;Nymphadora Tonks;Married Remus Lupin and was killed by Bellatrix.;human;female;Hufflepuff;1973;VERDADERO;half-blood;brown;brown;;FALSO
+49;Dolores Umbridge;Senior undersecretary to the Ministry of Magic. Eventually sent to Azkaban.;human;female;Slytherin;1965;VERDADERO;half-blood;brown;grey;birch;VERDADERO
+50;Arthur Weasley;Father of the Weasleys and member of the Order of the Phoenix.;human;male;Gryffindor;1950;VERDADERO;pure-blood;blue;red;;VERDADERO
+51;Bill Weasley;Oldest son of Arthur and Molly. Husband of Fleur. ;human;male;Gryffindor;1970;VERDADERO;pure-blood;blue;red;;VERDADERO
+52;Charlie Weasley;Second son of Arthur and Molly. Works with dragons in Romania.;human;male;Gryffindor;1972;VERDADERO;pure-blood;blue;red;ash;VERDADERO
+53;Fred Weasley;Identical twin with George and co-owner of Weasleys' Wizard Wheezes;human;male;Gryffindor;1978;VERDADERO;pure-blood;;red;;FALSO
+54;George Weasley;Identical twin with Fred and co-owner of Weasleys' Wizard Wheezes;human;male;Gryffindor;1978;VERDADERO;pure-blood;;red;;VERDADERO
+55;Ginny Weasley;Marries Harry Potter and only daughter of Molly and Arthur.;human;female;Gryffindor;1981;VERDADERO;pure-blood;brown;red;yew;VERDADERO
+56;Molly Weasley;Wife of Arthur and mother of the Weasleys. Kills Bellatrix.;human;female;Gryffindor;1949;VERDADERO;pure-blood;brown;red;;VERDADERO
+57;Percy Weasley;Third son of Arthur and Molly. He is a Gryffindor prefect.;human;male;Gryffindor;1976;VERDADERO;pure-blood;blue;red;;VERDADERO
+58;Ron Weasley;Harry's best friend. Marries Hermione.;human;male;Gryffindor;1980;VERDADERO;pure-blood;blue;red;willow;VERDADERO
+59;Dobby;House elf and friend of Harry. He is killed by Bellatrix.;house-elf;male;;;FALSO;;green;bald;;FALSO
+60;Fluffy;Three-headed dog belonging to Rubeus Hagrid.;three-headed dog;male;;;FALSO;;brown;brown;;VERDADERO
+61;Hedwig;Harry's owl.;owl;female;;1991;FALSO;;amber;white;;FALSO
+62;Moaning Myrtle;Ghost at Hogwards.;ghost;female;Ravenclaw;1929;VERDADERO;muggle;black;black;;FALSO
+63;Aragog;Acromantula belonging to Rubeus Hagrid.;acromantula;male;;1937;FALSO;;white;brown;;FALSO
+64;Grawp;Giant-half brother of Hagrid.;giant;male;;1931;FALSO;;black;brown;;VERDADERO
